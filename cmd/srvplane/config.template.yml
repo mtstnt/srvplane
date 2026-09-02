@@ -1,0 +1,8 @@
+network:
+  host: localhost
+  port: 3333
+  
+database:
+  driver: sqlite3
+  credentials: 
+    url: sqlite3://./srvplane.db
